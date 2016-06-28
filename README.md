@@ -482,12 +482,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Content Management Systems.*
 
-* [django-cms](http://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
+* [django-cms](http://www.django-cms.org/en/) - An Open source enterprise CMS based on Django.
 * [djedi-cms](http://djedi-cms.org/) - A lightweight but yet powerful Django CMS with plugins, inline editing and performance in mind.
 * [FeinCMS](http://www.feincms.org/) - One of the most advanced Content Management Systems built on Django.
 * [Kotti](http://kotti.pylonsproject.org/) - A high-level, Pythonic web application framework built on Pyramid.
 * [Mezzanine](http://mezzanine.jupo.org/) - A powerful, consistent, and flexible content management platform.
-* [Opps](http://opps.github.io/opps/) - A Django-based CMS for magazines, newspapers websites and portals with high-traffic.
+* [Opps](http://opps.github.io/opps/) - A Django-based CMS for magazines, newspapers websites, and portals with high-traffic.
 * [Plone](https://plone.org/) - A CMS built on top of the open source application server Zope.
 * [Quokka](http://quokkaproject.org/) - Flexible, extensible, small CMS powered by Flask and MongoDB.
 * [Wagtail](https://wagtail.io/) - A Django content management system.
@@ -519,7 +519,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [flask-restful](https://github.com/flask-restful/flask-restful) - Quickly building REST APIs for Flask.
     * [flask-restless](https://github.com/jfinkels/flask-restless) - Generating RESTful APIs for database models defined with SQLAlchemy.
     * [flask-api-utils](https://github.com/marselester/flask-api-utils) - Taking care of API representation and authentication for Flask.
-    * [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions.
+    * [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB, and good intentions.
 * Pyramid
     * [cornice](https://github.com/mozilla-services/cornice) - A RESTful framework for Pyramid.
 * Framework agnostic
@@ -600,7 +600,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
 * [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 * [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
-* [fileconveyor](http://fileconveyor.org/) - A daemon to detect and sync files to CDNs, S3 and FTP.
+* [fileconveyor](http://fileconveyor.org/) - A daemon to detect and sync files to CDNs, S3, and FTP.
 * [flask-assets](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
 * [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) - A Jinja extension to compile and compress your assets.
 * [webassets](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
@@ -1009,7 +1009,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Frameworks and libraries for MapReduce.*
 
-* [dpark](https://github.com/douban/dpark) - Python clone of Spark, a MapReduce alike framework in Python.
+* [dpark](https://github.com/douban/dpark) - Python clone of Spark: a MapReduce alike framework in Python.
 * [dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs.
 * [luigi](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
 * [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
@@ -1051,7 +1051,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
 * [Fabric](http://www.fabfile.org/) - A simple, Pythonic tool for remote execution and deployment.
 * [Fabtools](https://github.com/ronnix/fabtools) - Tools for writing awesome Fabric files.
-* [honcho](https://github.com/nickstenning/honcho) - A Python clone of [Foreman](https://github.com/ddollar/foreman), for managing Procfile-based applications.
+* [honcho](https://github.com/nickstenning/honcho) - A Python clone of [Foreman](https://github.com/ddollar/foreman) for managing Procfile-based applications.
 * [pexpect](https://github.com/pexpect/pexpect) - Controlling interactive programs in a pseudo-terminal like GNU expect.
 * [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 * [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
@@ -1163,7 +1163,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Vim
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)-based completion engine for Python.
     * [Jedi-vim](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python.
-    * [Python-mode](https://github.com/klen/python-mode) - An all in one plugin for turning Vim into a Python IDE.
+    * [Python-mode](https://github.com/klen/python-mode) - An all-in-one plugin for turning Vim into a Python IDE.
 * Visual Studio
     * [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio.
 
